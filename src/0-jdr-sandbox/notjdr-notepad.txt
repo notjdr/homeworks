@@ -1,0 +1,2 @@
+why does one want to linearize a 3D array into a 1D one?
+    more efficient, smaller, faster

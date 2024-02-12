@@ -6,13 +6,27 @@
 
 float get_pixel(image im, int x, int y, int c)
 {
-    // TODO Fill this in
+    /* 
+    return pixel value at column x, row y, channel c
+    */
+
+     
+    // TODO perform clamp padding strategy to image
+    // TODO if zero has the image centered, when does the image start?    
+
+    // TODO FILL THIS IN 
     return 0;
 }
 
 void set_pixel(image im, int x, int y, int c, float v)
 {
-    // TODO Fill this in
+    /* 
+    return nothing if invalid coordinates 
+    */
+
+    // TODO perform bounds checking to make sure co-ords are valid for image
+
+    // TODO FILL THIS IN
 }
 
 image copy_image(image im)
