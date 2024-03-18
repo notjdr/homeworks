@@ -1,0 +1,30 @@
+{
+  "course_title":"Introduction to Computational Thinking and Data Science",
+  "course_description":"6.0002 is the continuation of _[6.0001 Introduction to Computer Science and Programming in Python](/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)_ and is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.\n",
+  "site_uid":"c12b4e4a-262c-49f4-b105-572194394d2e",
+  "legacy_uid":"495693ed-f565-882f-89bc-b42bd27e3fef","instructors": [{
+    "first_name":"Eric",
+    "last_name":"Grimson",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Eric Grimson"},{
+    "first_name":"John",
+    "last_name":"Guttag",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. John Guttag"},{
+    "first_name":"Ana",
+    "last_name":"Bell",
+    "middle_initial":"",
+    "salutation":"Dr.",
+    "title":"Dr. Ana Bell"}],"department_numbers":["6"],
+  "learning_resource_types":["Lecture Videos","Problem Sets","Lecture Notes","Programming Assignments"],
+  "topics":[["Engineering","Computer Science"],["Mathematics","Probability and Statistics"]],
+  "primary_course_number":"6.0002",
+  "extra_course_numbers":"",
+  "term":"Fall",
+  "year":"2016",
+  "level":["Undergraduate"],
+  "image_src":"./static_resources/d9b969b1e9e2029d7e9b9e2c9324dde4_6-0002f16.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"","draft":false,"file":"/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/d9b969b1e9e2029d7e9b9e2c9324dde4_6-0002f16.jpg","file_size":34438,"file_type":"image/jpeg","image_metadata":{"caption":"The image above represents the clusters found by a clustering algorithm. The arms of each color equal the distance from the center to each point in the cluster. (Courtesy of Ana Bell.)","credit":"","image-alt":"Abstract blue, red, yellow, and purple block clusters."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"6-0002f16.jpg","uid":"d9b969b1-e9e2-029d-7e9b-9e2c9324dde4"}}
+

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Videos on MIT OpenCourseWare</title>
+    <link>/resources/lecture-videos/</link>
+    <description>Recent content in Lecture Videos on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture 1: Introduction and Optimization Problems</title>
+      <link>/resources/lecture-1-introduction-and-optimization-problems/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-1-introduction-and-optimization-problems/data.json</guid>
+      <description>Description: Prof. Guttag provides an overview of the course and discusses how we use computational models to understand the world in which we live, in particular he discusses the knapsack problem and greedy algoriths.
+Instructor: John Guttag</description>
+    </item>
+    
+    <item>
+      <title>Lecture 10: Understanding Experimental Data (cont.)</title>
+      <link>/resources/lecture-10-understanding-experimental-data-cont/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-10-understanding-experimental-data-cont/data.json</guid>
+      <description>Description: Prof. Grimson continues on the topic of modeling experimental data.
+Instructor: Eric Grimson</description>
+    </item>
+    
+    <item>
+      <title>Lecture 11: Introduction to Machine Learning</title>
+      <link>/resources/lecture-11-introduction-to-machine-learning/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-11-introduction-to-machine-learning/data.json</guid>
+      <description>Description: In this lecture, Prof. Guttag introduces machine learning and shows examples of supervised learning using feature vectors.
+Instructor: Eric Grimson</description>
+    </item>
+    
+    <item>
+      <title>Lecture 12: Clustering</title>
+      <link>/resources/lecture-12-clustering/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-12-clustering/data.json</guid>
+      <description>Description: Prof. Guttag discusses clustering.
+Instructor: John Guttag</description>
+    </item>
+    
+    <item>
+      <title>Lecture 13: Classification</title>
+      <link>/resources/lecture-13-classification/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-13-classification/data.json</guid>
+      <description>Description: Prof. Guttag introduces supervised learning with nearest neighbor classification using feature scaling and decision trees.
+Instructor: John Guttag</description>
+    </item>
+    
+    <item>
+      <title>Lecture 14: Classification and Statistical Sins</title>
+      <link>/resources/lecture-14-classification-and-statistical-sins/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-14-classification-and-statistical-sins/data.json</guid>
+      <description>Description: Prof. Guttag finishes discussing classification and introduces common statistical fallacies and pitfalls.
+Instructor: John Guttag</description>
+    </item>
+    
+    <item>
+      <title>Lecture 15: Statistical Sins and Wrap Up</title>
+      <link>/resources/lecture-15-statistical-sins-and-wrap-up/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-15-statistical-sins-and-wrap-up/data.json</guid>
+      <description>Description: Prof. Guttag continues the conversation about statistical fallacies and summarizes the take-aways of the course.
+Instructor: John Guttag</description>
+    </item>
+    
+    <item>
+      <title>Lecture 2: Optimization Problems</title>
+      <link>/resources/lecture-2-optimization-problems/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-2-optimization-problems/data.json</guid>
+      <description>Description: Prof. Guttag explains dynamic programming and shows some applications of the process.
+Instructor: John Guttag</description>
+    </item>
+    
+    <item>
+      <title>Lecture 3: Graph-theoretic Models</title>
+      <link>/resources/lecture-3-graph-theoretic-models/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-3-graph-theoretic-models/data.json</guid>
+      <description>Description: Prof. Grimson discusses graph models and depth-first and breadth-first search algorithms.
+Instructor: Eric Grimson</description>
+    </item>
+    
+    <item>
+      <title>Lecture 4: Stochastic Thinking</title>
+      <link>/resources/lecture-4-stochastic-thinking/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-4-stochastic-thinking/data.json</guid>
+      <description>Description: Prof. Guttag introduces stochastic processes and basic probability theory.
+Instructor: John Guttag</description>
+    </item>
+    
+    <item>
+      <title>Lecture 5: Random Walks</title>
+      <link>/resources/lecture-5-random-walks/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-5-random-walks/data.json</guid>
+      <description>Description: Prof. Guttag discusses how to build simulations and plot graphs in Python.
+Instructor: John Guttag</description>
+    </item>
+    
+    <item>
+      <title>Lecture 6: Monte Carlo Simulation</title>
+      <link>/resources/lecture-6-monte-carlo-simulation/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-6-monte-carlo-simulation/data.json</guid>
+      <description>Description: Prof. Guttag discusses the Monte Carlo simulation, Roulette.
+Instructor: John Guttag</description>
+    </item>
+    
+    <item>
+      <title>Lecture 7: Confidence Intervals</title>
+      <link>/resources/lecture-7-confidence-intervals/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-7-confidence-intervals/data.json</guid>
+      <description>Description: Prof. Guttag continues discussing Monte Carlo simulations.
+Instructor: John Guttag</description>
+    </item>
+    
+    <item>
+      <title>Lecture 8: Sampling and Standard Error</title>
+      <link>/resources/lecture-8-sampling-and-standard-error/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-8-sampling-and-standard-error/data.json</guid>
+      <description>Description: Prof. Guttag discusses sampling and how to approach and analyze real data.
+Instructor: John Guttag</description>
+    </item>
+    
+    <item>
+      <title>Lecture 9: Understanding Experimental Data</title>
+      <link>/resources/lecture-9-understanding-experimental-data/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-9-understanding-experimental-data/data.json</guid>
+      <description>Description: Prof. Grimson talks about how to model experimental data in a way that gives a sense of the underlying mechanism and to predict behaviour in new settings.
+Instructor: Eric Grimson</description>
+    </item>
+    
+    <item>
+      <title>Lecture Videos</title>
+      <link>/video_galleries/lecture-videos/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/video_galleries/lecture-videos/data.json</guid>
+      <description> Lecture 1: Introduction and Optimization Problems Lecture 2: Optimization Problems Lecture 3: Graph-theoretic Models Lecture 4: Stochastic Thinking Lecture 5: Random Walks Lecture 6: Monte Carlo Simulation Lecture 7: Confidence Intervals Lecture 8: Sampling and Standard Error Lecture 9: Understanding Experimental Data Lecture 10: Understanding Experimental Data (cont.) Lecture 11: Introduction to Machine Learning Lecture 12: Clustering Lecture 13: Classification Lecture 14: Classification and Statistical Sins Lecture 15: Statistical Sins and Wrap Up </description>
+    </item>
+    
+  </channel>
+</rss>
